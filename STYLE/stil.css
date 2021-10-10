@@ -1,0 +1,106 @@
+.spatiu{
+    padding-right: 7%;
+    padding-left: 7%;
+}
+.rounded_img
+{
+    border-radius: 50%;
+    width: 45%;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    border: 5px solid #519c38;
+}
+.centru{
+    text-align: center !important;
+}
+.Gri1
+{
+    background-color: #282828;
+}
+.Gri2
+{
+    background-color: #2c2c2c;
+}
+.Gri3
+{
+    background-color : #313131;
+}
+
+
+.fa {
+    padding: 17px;
+    font-size: 30px;
+    text-align: left;   
+    text-decoration: none;
+}
+.fa:hover {
+    color : #519c3869;
+}
+@font-face
+{
+    font-family: myFirstFont;
+    src : url(TheFighter.otf);
+}
+.nume
+{
+    font-family: myFirstFont;
+    color : #A4A5A6;
+    font-size: 110px;
+    text-align : center;
+}
+.TextVerde
+{
+    color: #519c38;
+}
+.oranj{
+    color : #fca400
+}
+@font-face
+{
+    font-family: LatoLight;
+    src : url(Lato-Light.ttf);
+}
+@font-face
+{
+    font-family: LatoSemiBold;
+    src : url(Lato-Semibold.ttf);
+}
+.Text_Int
+{
+    font-family: LatoLight;
+    font-size: 30px;
+    color : #A4A5A6;
+    text-align: left;
+}
+.dreapta
+{
+    text-align: right!important;
+}
+
+.solid {
+    color : #A4A5A6;
+    color : red;
+}
+.Text
+{
+    font-family: LatoLight;
+    font-size: 20px;
+    color : #A4A5A6;
+}
+.spatiu2{
+    padding: 100px;
+}
+a:hover {
+    color: #519c38;
+}
+.w3-green
+{
+    background-color: #519c38;
+}
+.w3-light-grey
+{
+    background-color: #424242!important;
+}
+.rounded_img:hover{
+    border: 10px solid #519c3869;
+}
